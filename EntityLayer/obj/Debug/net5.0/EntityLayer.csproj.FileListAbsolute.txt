@@ -1,0 +1,12 @@
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Hamit\source\repos\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
