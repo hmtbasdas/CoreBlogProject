@@ -159,4 +159,5 @@ C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Raz
 C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Shared\Partials\Footer.cshtml.g.cs
 C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
 C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
-C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Comment\PartialCommentList.cshtml.g.cs
+C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+C:\Users\Hamit\source\repos\CoreBlogProject\CoreBlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
